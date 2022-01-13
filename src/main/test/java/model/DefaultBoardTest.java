@@ -1,7 +1,8 @@
-package tp_project.model;
+package model;
 
 import org.junit.Before;
 import org.junit.Test;
+import tp_project.model.*;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.fail;
