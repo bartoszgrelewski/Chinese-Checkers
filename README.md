@@ -1,7 +1,8 @@
 # Chinese-Checkers
 Chinese Checkers Game.
 This game works in client-server architecture. 
-Player starts game, then waits for other players. Server provides verification of moves and rules and mediates in communication.
+Player starts game, then waits for other players. 
+Server provides verification of moves and rules and mediates in communication.
 
 We used:
 - JavaFX
